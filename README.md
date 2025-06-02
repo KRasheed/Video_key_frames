@@ -32,7 +32,7 @@ A powerful Streamlit web application that intelligently extracts key frames from
 
 4. **Run the application**
    ```bash
-   streamlit run streamlit_app.py
+   streamlit run Streamlit.py
    ```
 ## 🎯 Usage
 
