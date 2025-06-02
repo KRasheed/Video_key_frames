@@ -1,6 +1,6 @@
 # 🎬 Adaptive Keyframe Extractor
 
-A powerful Streamlit web application that intelligently extracts key frames from videos using adaptive computer vision algorithms. Perfect for video summarization, content analysis, scene detection, and thumbnail generation.
+A Streamlit web application that intelligently extracts key frames from videos using adaptive computer vision algorithms. Perfect for video summarization, content analysis, scene detection, and thumbnail generation.
 
 ## ✨ Features
 
